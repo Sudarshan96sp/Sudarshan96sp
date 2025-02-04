@@ -5,7 +5,7 @@
 🌱 Currently learning:<br>Advanced Excel functions, Power BI, SQL, and Python for data analysis.<br><br>
 👯 Looking to collaborate on:<br>Data-driven projects involving data cleaning, visualization, and predictive analysis.<br><br>
 💬 Ask me about:<br>Data Analysis, Excel, Power BI, SQL, Python, and Data Visualization.<br><br>
-📫 How to reach me:<br>sudarshanparkale@gmail.com<br><br>
+📫 How to reach me:<br>sudarshanparkale2003@gmail.com<br><br>
 ⚡ Fun fact:<br>I love transforming raw data into meaningful insights and enjoy finding patterns in numbers!<br><br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

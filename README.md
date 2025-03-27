@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Sudarshan Parkale</h1>
-<h3 >Aspiring Data Analyst from India</h3>
+<h3 >Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/010/869/737/non_2x/data-analysis-concept-illustration-flat-vector-design-statistical-and-data-analysis-for-business-finance-investment-concept-taking-part-in-business-activities-free-png.png" />
 🔭 Currently working on:<br>Enhancing my data analysis skills with Power BI and Excel.<br><br>
 🌱 Currently learning:<br>Advanced Excel functions, Power BI, SQL, and Python for data analysis.<br><br>
